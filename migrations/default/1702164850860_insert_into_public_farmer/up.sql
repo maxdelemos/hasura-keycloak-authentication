@@ -1,0 +1,1 @@
+INSERT INTO "public"."farmer"("group_id", "name", "user_id", "age", "id") VALUES (E'918e7c31-7f74-4e49-b8b6-3613f068af8a', E'joão', E'918e7c31-7f74-4e49-b8b6-3613f068af8a', 45, E'14b479b3-5079-479d-9992-774a1fec9de2');

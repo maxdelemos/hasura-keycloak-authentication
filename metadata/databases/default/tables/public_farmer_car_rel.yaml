@@ -1,0 +1,3 @@
+table:
+  name: farmer_car_rel
+  schema: public

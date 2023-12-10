@@ -1,0 +1,1 @@
+INSERT INTO "public"."car"("code", "group_id", "user_id", "id") VALUES (E'MT-5105101-2919ADF333EF4DF59D9712DEE11111FB', E'918e7c31-7f74-4e49-b8b6-3613f068af8a', E'918e7c31-7f74-4e49-b8b6-3613f068af8a', E'9b5e81b1-980e-4ff7-b0d2-3e0c84977ea5');
